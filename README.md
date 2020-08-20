@@ -1,5 +1,5 @@
 # Fullstack-Website
-This website is completely in React Js , Node Js and Mongo Db.
+This website is basics E-Commerce website. which is made in React Js , Node Js and Mongo Db.
 
 ## About-Website
 
